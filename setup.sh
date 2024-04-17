@@ -27,17 +27,17 @@ mkdir /var/lib/crot;
 echo "IP=" >> /var/lib/crot/ipvps.conf
 cd
 #masukin domain lo
-wget https://raw.githubusercontent.com/lihin929/XRAY-MANTAP/main/domain/cf.sh && chmod +x cf.sh && ./cf.sh
+wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/domain/cf.sh && chmod +x cf.sh && ./cf.sh
 #install tools/alat
-wget https://raw.githubusercontent.com/lihin929/XRAY-MANTAP/main/install-tools.sh && chmod +x install-tools.sh && ./install-tools.sh
+wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/install-tools.sh && chmod +x install-tools.sh && ./install-tools.sh
 #
 #Instal Xray
-wget https://raw.githubusercontent.com/lihin929/XRAY-MANTAP/main/install-xray.sh && chmod +x install-xray.sh && ./install-xray.sh
+wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/install-xray.sh && chmod +x install-xray.sh && ./install-xray.sh
 #install xmenu
-wget https://raw.githubusercontent.com/lihin929/XRAY-MANTAP/main/menu/updatedll.sh && chmod +x updatedll.sh && ./updatedll.sh
+wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/menu/updatedll.sh && chmod +x updatedll.sh && ./updatedll.sh
 #log-install.txt
 cd
-wget https://raw.githubusercontent.com/lihin929/XRAY-MANTAP/main/log-install.txt
+wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/log-install.txt
 #
 #SELESAI
 echo " Certv2ray and reboot in 18 sec"
