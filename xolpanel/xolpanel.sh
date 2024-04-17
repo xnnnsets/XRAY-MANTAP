@@ -4,6 +4,8 @@
 rm -rf xolpanel.sh
 apt update && apt upgrade
 apt install python3 python3-pip git
+wget https://github.com/xnnnsets/XRAY-MANTAP/raw/main/xolpanel/xolpanel.zip
+unzip xolpanel.zip
 pip3 install -r xolpanel/requirements.txt
 pip3 install pillow
 
