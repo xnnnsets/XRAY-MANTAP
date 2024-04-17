@@ -12,7 +12,7 @@ Salin kode di bawah ini dan paste kan ke dalam vps punya kamu
 sudo screen -S xray wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
-# INI SCRIPT PERPADUAN ANTARA
+# SAYA HANYA TEMPEL PASANG COODINGAN ORANG
 https://github.com/fisabiliyusri/XRAY-MANTAP
 dan
 https://github.com/givpn/AutoScriptXray
