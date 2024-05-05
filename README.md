@@ -12,9 +12,10 @@ Salin kode di bawah ini dan paste kan ke dalam vps punya kamu
 sudo screen -S xray wget https://raw.githubusercontent.com/xnnnsets/XRAY-MANTAP/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
-# SAYA HANYA TEMPEL PASANG COODINGAN ORANG
+# SOURCE ASLI ⬇️
 https://github.com/fisabiliyusri/XRAY-MANTAP
 dan
 https://github.com/givpn/AutoScriptXray
 
-# MOHON MAAF JIKA ADA KESALAHAN
+# NOTE ⬇️
+Perlu di ingatkan, saya tidak mengubah apapun dari source aslinya, bisa di bilang saya hanya mengcopy paste source orang✌🏼
